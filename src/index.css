@@ -35,7 +35,7 @@ button{
   position: fixed;
 }
 .navbar h2{
-  background-color: #FD0102;
+  background-color: #952222;
   width: fit-content;
   padding: 2px;
 }
@@ -73,7 +73,7 @@ button{
 .list{
   width: 310px;
   height: 200px;
-  background-color: #478AC9;
+  background-color: #124e87;
   margin-bottom:5px ;
   color: white;
   padding: 10px;
